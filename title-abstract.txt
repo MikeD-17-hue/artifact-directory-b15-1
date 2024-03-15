@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+WhatNext? - AI-Powered Location Recommendation Application
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In the modern fast-paced social environment, people face significant chal- lenges in planning activities, resulting in wasted time, decision fatigue, and suboptimal choices. This paper introduces our solution: ”WhatNext?”, a rec- ommendation application that merges real-time data with natural language processing to offer dynamic, personalized suggestions for activities. By lever- aging Yelp’s location data and OpenAI’s Assistant API framework, our app’s built-in chatbot ensures that users can quickly find activities and places that are not only open but also align with their specific preferences. It operates through two main functions: parameter inference and contextualized rank- ing. The recommender system first analyzes the conversation history to gen- erate search parameters for fetching appropriate locations via the API. Then, it systematically ranks these suggestions for the user, drawing from both the dialogue history and a set of personalized preferences. We evaluate our sys- tem on two different metrics, proximity/availability and user satisfaction. Initial results reveal overall scores of 0.99 and 0.94, respectively. Our ap- proach demonstrates the potential of AI-integrated systems in improving the efficiency and quality of decision-making.
